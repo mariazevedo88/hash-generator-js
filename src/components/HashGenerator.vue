@@ -38,7 +38,9 @@ export default {
         hash  = ((hash << 5) - hash) + chr;
         hash |= 0; // Convert to 32bit integer
       }
-      this.codeGenerated = (hash + 2147483647) + 1;
+    
+      this.codeGenerated = hash < 0 ? hash*-1 : hash;
+    
     },
     clean: function() {
       this.code = '';
