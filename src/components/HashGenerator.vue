@@ -20,9 +20,7 @@
       <footer class="page-footer my-footer">
           <!-- Copyright -->
           <div class="footer-copyright text-center py-3">
-            <label><b>© 2019</b></label>
-            <a href="https://mariazevedo88.github.io/"><img class="github" src="/static/github.png"></a>
-            <a><b>Mariana Azevedo</b></a>
+            <a href="https://mariazevedo88.github.io/"><b>© 2019 - Mariana Azevedo</b></a>
           </div>
           <!-- Copyright -->
       </footer>

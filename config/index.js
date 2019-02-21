@@ -50,7 +50,7 @@ module.exports = {
     // Paths
     assetsRoot: path.resolve(__dirname, '../dist'),
     assetsSubDirectory: 'static',
-    assetsPublicPath: '/hash-generator-js',
+    assetsPublicPath: '/hash-generator-js/',
 
     /**
      * Source Maps
