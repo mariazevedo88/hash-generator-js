@@ -4,6 +4,8 @@
 
 > A Vue.js application with a javascript implementation of String's class hashCode method in Java
 
+![Logo do projeto](src/assets/logo_small.png)
+
 ## Build Setup
 
 ``` bash
@@ -30,3 +32,7 @@ npm test
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+## Contributing
+
+[![](https://sourcerer.io/fame/mariazevedo88/mariazevedo88/hash-generator-js/images/0)](https://sourcerer.io/fame/mariazevedo88/mariazevedo88/hash-generator-js/links/0)[![](https://sourcerer.io/fame/mariazevedo88/mariazevedo88/hash-generator-js/images/1)](https://sourcerer.io/fame/mariazevedo88/mariazevedo88/hash-generator-js/links/1)[![](https://sourcerer.io/fame/mariazevedo88/mariazevedo88/hash-generator-js/images/2)](https://sourcerer.io/fame/mariazevedo88/mariazevedo88/hash-generator-js/links/2)[![](https://sourcerer.io/fame/mariazevedo88/mariazevedo88/hash-generator-js/images/3)](https://sourcerer.io/fame/mariazevedo88/mariazevedo88/hash-generator-js/links/3)[![](https://sourcerer.io/fame/mariazevedo88/mariazevedo88/hash-generator-js/images/4)](https://sourcerer.io/fame/mariazevedo88/mariazevedo88/hash-generator-js/links/4)[![](https://sourcerer.io/fame/mariazevedo88/mariazevedo88/hash-generator-js/images/5)](https://sourcerer.io/fame/mariazevedo88/mariazevedo88/hash-generator-js/links/5)[![](https://sourcerer.io/fame/mariazevedo88/mariazevedo88/hash-generator-js/images/6)](https://sourcerer.io/fame/mariazevedo88/mariazevedo88/hash-generator-js/links/6)[![](https://sourcerer.io/fame/mariazevedo88/mariazevedo88/hash-generator-js/images/7)](https://sourcerer.io/fame/mariazevedo88/mariazevedo88/hash-generator-js/links/7)
