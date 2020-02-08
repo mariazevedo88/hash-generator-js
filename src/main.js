@@ -20,4 +20,4 @@ const hashApp = new Vue({
   render: h => h(App)
 })
 
-hashApp
+hashApp // eslint-disable-line no-unused-expressions
