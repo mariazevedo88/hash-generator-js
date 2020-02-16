@@ -1,4 +1,4 @@
-FROM node:13.8.0-stretch
+FROM node
 
 RUN apt-get update && \
   apt-get install -y --no-install-recommends \
