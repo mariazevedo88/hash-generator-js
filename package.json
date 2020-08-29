@@ -20,7 +20,7 @@
     "@fortawesome/vue-fontawesome": "^0.1.10",
     "ajv": "^6.12.3",
     "ajv-keywords": "^3.5.2",
-    "bootstrap": "^4.5.1",
+    "bootstrap": "^4.5.2",
     "bootstrap-vue": "^2.16.0",
     "jquery": "^3.5.1",
     "vue": "^2.6.11",
