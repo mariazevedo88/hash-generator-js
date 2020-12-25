@@ -21,7 +21,7 @@
     "ajv": "^6.12.6",
     "ajv-keywords": "^3.5.2",
     "bootstrap": "^4.5.3",
-    "bootstrap-vue": "^2.20.0",
+    "bootstrap-vue": "^2.20.1",
     "jquery": "^3.5.1",
     "vue": "^2.6.12",
     "vue-router": "^3.4.9"
