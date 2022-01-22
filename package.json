@@ -83,7 +83,7 @@
     "rimraf": "^3.0.2",
     "selenium-server": "^3.141.59",
     "semver": "^7.3.5",
-    "shelljs": "^0.8.4",
+    "shelljs": "^0.8.5",
     "uglifyjs-webpack-plugin": "^1.1.2",
     "url-loader": "^4.1.1",
     "vue-jest": "^3.0.7",
