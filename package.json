@@ -23,7 +23,7 @@
     "bootstrap": "^5.2.2",
     "bootstrap-vue": "^2.23.0",
     "jquery": "^3.6.0",
-    "vue": "^2.7.13",
+    "vue": "^3.0.0",
     "vue-router": "^3.5.4"
   },
   "devDependencies": {
